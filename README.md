@@ -28,3 +28,8 @@ Wanneer JS uitstaat zal de site niet goed werken. Met JS wordt namelijk de data 
 - **Te veel flexibiliteit:** Vue biedt veel mogelijkheden en flexibiliteit. Dit kan lastiger werken binnen een team, omdat iedereen andere standpunten kent. 
 
 ## CONTENT MANAGEMENT EXPERIENCE
+Gekozen CMS Prismic
+- Simpeler
+- Gebruiksvriendelijker
+- Visuele editor (drag & drop idee)
+- Iets beperkter
